@@ -12,8 +12,11 @@ Main Subject : Proposals for regional competitions and solution-providing applic
 
 ## :runner: Members
 중앙대학교 예술공학대학 컴퓨터예술학부 임유민 
+<br>
 금오공과대학교 컴퓨터소프트웨어공학과 이지현
+<br>
 금오공과대학교 컴퓨터소프트웨어공학과 임수연
+<br>
 강남대학교 경영학부 박영주
 
 ## :computer: Language
@@ -22,5 +25,7 @@ Main Subject : Proposals for regional competitions and solution-providing applic
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffdd54" />
 
 ## :camera: Images
+![111](https://github.com/imyoumin/Idea-hackathon-solve-future-social-problems-big-data/assets/69343466/eb2aba2b-f480-4e94-b823-47c1286e06d6)
+![222](https://github.com/imyoumin/Idea-hackathon-solve-future-social-problems-big-data/assets/69343466/95cb3228-e4f8-45a8-b55d-8be44670e5a6)
 
 
