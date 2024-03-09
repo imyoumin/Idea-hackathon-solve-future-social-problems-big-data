@@ -1,4 +1,4 @@
-#  :cd: Hackathon of ideas for solving future social problems using big data
+#  :trophy Hackathon of ideas for solving future social problems using big data
 Main Subject : Proposals for regional competitions and solution-providing applications to reduce waste emissions and expand participation.
 1. Calculation and visualization of comprehensive waste indicators by region
 2. Provide ranking information and encourage competition
